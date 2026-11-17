@@ -96,7 +96,7 @@ oversized copy from happening.
 
 ## Presentation
 
-See presentation.pdf for the slides.
+See Stack Buffer Overflows in C for the slides.
 
 ## Resources
 
